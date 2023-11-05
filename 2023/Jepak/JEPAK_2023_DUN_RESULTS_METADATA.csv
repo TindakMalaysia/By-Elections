@@ -1,0 +1,42 @@
+﻿Created on,5/11/2023
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Attorney General Chambers, Malaysiakini (https://www.malaysiakini.com/news/684332)"
+Disclaimers,This is the non-gazetted official results from SPR. A selected number of values for Sekolah Kebangsaan Jepak are missing as SPR FB live did not show remaining values of 5 salurans. All early voters became postal voters.  TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Normal/Ordinary Vote)"
+PARLIAMENTARY CODE,Parliamentary Code (2015 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2015 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2015 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2015 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2015 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2015 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Jepak By-Election 2023
+VOTING CHANNEL NUMBER,Voting Channel Number for Jepak By-Election 2023 (Saluran)
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+GPS,Gabungan Parti Sarawak (GPS) Component Party
+GPS CANDIDATE,Gabungan Parti Sarawak Candidate Name as per the Government Gazetter (Form 8)
+GPS CANDIDATE GENDER,Male/Female Classification
+GPS CANDIDATE AGE,Age of Gabungan Parti Sarawak Candidate
+GPS VOTE,Gabungan Parti Sarawak Valid Vote for the Candidate
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (1) CANDIDATE GENDER,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2),Other Party Name
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (2) CANDIDATE GENDER,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (2) VOTE,Party Valid Vote for the Other Party Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+,
+KEY ABBREVIATIONS,
+PBB,Parti Pesaka Bumiputera Bersatu Sarawak
+PBK,Parti Bumi Kenyalang
+ASPIRASI,Parti Aspirasi Rakyat Sarawak
