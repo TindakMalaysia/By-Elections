@@ -1,0 +1,36 @@
+﻿﻿Created on,18/12/2023
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Attorney General Chambers, Berita Harian (https://www.bharian.com.my/berita/nasional/2023/11/1176401/bekas-panglima-atm-raja-mohamed-affandi-calon-bn-di-prk-kemaman), Facebook (https://web.facebook.com/BKBROfficial/posts/biodata-menteri-besar-terengganu-ke-15maklumat-umumnama-dr-ahmad-samsuri-bin-mok/2173516202878910/?_rdc=1&_rdr)"
+Disclaimers,This is the non-gazetted official results from SPR. Up to 22 saluran level data is missing as SPR Facebook live did not display the results. Majority of scheduled early voters became postal voters.TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Normal/Ordinary Vote)"
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Kemaman By-Election 2023
+VOTING CHANNEL NUMBER,Voting Channel Number for Kemaman By-Election 2023 (Saluran)
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE SEX,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN VOTE,Perikatan Nasional Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+,
+KEY ABBREVIATIONS,
+UMNO,United Malays National Organisation
+PAS,Parti Islam Se-Malaysia
