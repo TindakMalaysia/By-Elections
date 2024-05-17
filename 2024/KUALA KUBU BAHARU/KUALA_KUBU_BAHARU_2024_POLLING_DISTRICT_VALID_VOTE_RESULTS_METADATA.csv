@@ -1,0 +1,19 @@
+Created on,17/5/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2024), DAP Seri Kembangan"
+Disclaimers,The results are from derived from DAP Seri Kembangan. Limited validation was performed. Only focusing on Ordinary Vote and not on Early Vote and Postal Vote Data (can be found in KUALA_KUBU_BAHARU_2024_DUN_RESULTS) TindakMalaysia Network Services PLT is not responsible for errors and omissions
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+TOTAL VALID VOTES,Total number of votes by electors
+PH (%),Share of PH votes per total number of valid votes
+PN (%),Share of PN votes per total number of valid votes
+PRM (%),Share of PRM votes per total number of valid votes
+INDEPENDENT - MOTORCYCLE (%),Share of Independent votes per total number of valid votes
