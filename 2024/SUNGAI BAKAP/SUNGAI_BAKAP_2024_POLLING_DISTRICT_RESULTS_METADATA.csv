@@ -1,0 +1,28 @@
+﻿Created on,7/7/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2024), Media Ulamak Official"
+Disclaimers,The results are from derived from Media Ulamak Official. Limited validation was performed. There is slight overcounting of votes for PN Candidate. TindakMalaysia Network Services PLT is not responsible for errors and omissions
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+PH,Pakatan Harapan (PH) Component Party
+PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
+PH CANDIDATE SEX,Male/Female Classification
+PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
+PH VOTE,Pakatan Harapan Valid Vote for the Candidate
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE SEX,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN VOTE,Perikatan Nasional Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
