@@ -27,11 +27,6 @@ PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Fo
 PN CANDIDATE SEX,Male/Female Classification
 PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
 PN VOTE,Perikatan Nasional Valid Vote for the Candidate
-INDEPENDENT (1),Independent with Symbol
-INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
-INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
-INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
-INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
 TOTAL VALID VOTES,Total number of votes by electors
 TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
 TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
