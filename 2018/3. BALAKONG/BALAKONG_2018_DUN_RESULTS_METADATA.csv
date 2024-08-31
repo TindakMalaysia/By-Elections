@@ -1,0 +1,32 @@
+﻿Created on,31/8/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (https://www.spr.gov.my/sites/default/files/Paparan%20PRK%20N.27%20Balakong.pdf) (SPR), Tindak Malaysia (2024), Attorney General Chambers, New Straits Times (https://www.google.com/url?q=https://www.nst.com.my/news/politics/2018/08/403807/balakong-election-candidates-take-jibes-each-others-age-experience%23google_vignette&sa=D&source=editors&ust=1725093377640692&usg=AOvVaw1tHjJSFYUu2Ld5LxeyH4cm)"
+Disclaimers,This is the official result of the non-gazetted SPR. Results match with Government Gazette P.U. (B) 522. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Composite between Parliamentary Code,DUN Code, Polling District Code and Voting Channel Number"
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Ordinary Vote)"
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Balakong By-Election 2018
+VOTING CHANNEL NUMBER,Voting Channel Number (Nombor Saluran) for Balakong By-Election 2018
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+PH,Pakatan Harapan (PH) Component Party
+PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
+PH CANDIDATE SEX,Male/Female Classification
+PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
+PH VOTE,Pakatan Harapan Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
