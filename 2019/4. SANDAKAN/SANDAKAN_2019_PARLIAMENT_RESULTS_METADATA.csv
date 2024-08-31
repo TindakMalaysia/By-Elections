@@ -1,0 +1,47 @@
+﻿Created on,31/8/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (https://www.spr.gov.my/sites/default/files/Slide%20Keputusan%20Rasmi%20P186%20Sandakan.pdf) (SPR), Tindak Malaysia (2024), Attorney General Chambers, MalayMail (https://www.malaymail.com/news/malaysia/2019/04/27/five-cornered-fight-in-sandakan-by-election/1747470)"
+Disclaimers,This is the official result of the non-gazetted SPR. Results match with Government Gazette P.U. (B) 252. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Composite between Parliamentary Code,DUN Code, Polling District Code and Voting Channel Number"
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Ordinary Vote)"
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Sandakan By-Election 2019
+VOTING CHANNEL NUMBER,Voting Channel Number (Nombor Saluran) for Sandakan By-Election 2019
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+PH,Pakatan Harapan (PH) Component Party
+PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
+PH CANDIDATE SEX,Male/Female Classification
+PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
+PH VOTE,Pakatan Harapan Valid Vote for the Candidate
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name as per the Government Gazette (Form 8)
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (3) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) VOTE,Independent Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
