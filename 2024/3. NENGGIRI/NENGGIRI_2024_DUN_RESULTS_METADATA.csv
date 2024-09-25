@@ -1,0 +1,32 @@
+﻿Created on,19/8/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (https://web.facebook.com/sprgovmy/videos/356852687479734/) (SPR), Tindak Malaysia (2024), Attorney General Chambers, Sinar Harian (https://www.google.com/url?q=https://www.sinarharian.com.my/article/678695/infografik/biodata-calon-prk-nenggiri&sa=D&source=editors&ust=1724041012022157&usg=AOvVaw0BymBp9FkGr6JX0bUlsuSW), Astro Awani (https://www.youtube.com/watch?v=JGU33a7g3uo&t=2740s)"
+Disclaimers,"This is the non-gazetted official result from SPR. All police voters entitled to be early voters opted to be postal voters; hence, no early voting activity was required. Due to limitations of SPR Facebook live, full saluran result was not obtainable. Some of the Saluran level results for candidate votes and total valid votes were computed by Tindak Malaysia. Bersatu (PPBM) candidate contested under PAS ticket. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives"
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Composite between Parliamentary Code,DUN Code, Polling District Code and Voting Channel Number"
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Ordinary Vote)"
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Nenggiri By-Election 2018
+VOTING CHANNEL NUMBER,Voting Channel Number (Nombor Saluran) for Nenggiri By-Election 2024
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE SEX,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN VOTE,Perikatan Nasional Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)

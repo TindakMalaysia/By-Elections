@@ -1,0 +1,17 @@
+﻿Created on,19/8/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2024), Barisan Nasional"
+Disclaimers,"The results are derived from the Barisan Nasional Facebook Page (https://web.facebook.com/barisanasional/videos/2388638594680120/).One Saluran level data for Pasir Tumboh is missing. Limited validation was performed. Only focusing on Ordinary Vote, not Early Vote and Postal Vote Data. TindakMalaysia Network Services PLT is not responsible for errors and omissions"
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+TOTAL VALID VOTES,Total number of valid votes by electors (sum of votes of the candidates)
+UMNO,Total votes for UMNO Candidate
+PPBM,Total votes for Bersatu (PPBM) Candidate
