@@ -1,0 +1,40 @@
+Created on,"3/5/2022, updated on 27/11/2024"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2020), Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00675"
+Disclaimers,All the percentages for electoral demographics are calculated by Tindak Malaysia. There is no official ethnic demographic data. The sum of percentages for electoral demographics may not attain exactly 100% but the variation is kept at less than 2%. Malay Electors are clumped together under the Muslim Bumiputera community. Orang Asli's information is not available. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,"Composite between Parliamentary Code, DUN Code and Polling District Code (Unique Identifier)"
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Unique Identifier for Polling District
+POLLING DISTRICT NAME,Assigned name for Polling District
+TOTAL ELECTORS,Total Elector count using the 3rd Quarter Electoral Roll of 2019 that was gazetted on 21/11/2019
+MALAY (%),Proportion of Malay Electors for the Polling District (%). Not applicable for Kimanis as it is grouped together as Muslim Bumiputera (Sabah)
+CHINESE (%),Proportion of Chinese Electors for the Polling District (%)
+INDIANS (%),Proportion of Indians Electors for the Polling District (%)
+ORANG ASLI (%),Proportion of Orang Asli Electors for the Polling District (%)
+MUSLIM BUMIPUTERA  (%),Proportion of Muslim Bumiputera (Sabah) Electors for the Polling District (%)
+NON MUSLIM BUMIPUTERA (%),Proportion of Non Muslim Bumiputera (Sabah) Electors for the Polling District (%)
+BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the Polling District (%)
+OTHERS (%),Proportion of Others Electors for the Polling District (%)
+ELECTORS - ORDINARY VOTERS (%),Proportion of Electors - Ordinary Electors for the Polling District (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the Polling District (%)
+ELECTORS - POLICE (%),Proportion of Electors - Police Electors for the Polling District (%)
+ELECTORS - MILITARY (%),Proportion of Electors - Military Electors for the Polling District (%)
+21-29 (%),Proportion of 21-29 Electors for the Polling District (%)
+30-39 (%),Proportion of 30-39 Electors for the Polling District (%)
+40-49 (%),Proportion of 40-49 Electors for the Polling District (%)
+50-59 (%),Proportion of 50-59 Electors for the Polling District (%)
+60-69 (%),Proportion of 60-69 Electors for the Polling District (%)
+70-79 (%),Proportion of 70-79 Electors for the Polling District (%)
+80-89 (%),Proportion of 80-89 Electors for the Polling District (%)
+ABOVE 90 (%),Proportion of Above 90 Electors for the Polling District (%)
+MALE ELECTORS (%),Proportion of Male Electors for the Polling District (%)
+WOMEN ELECTORS (%),Proportion of Women Electors for the Polling District (%)
+URBAN-RURAL CLASSIFICATION (2020),Polling District urbanization classification
+OKU VOTERS (2020),Estimated Count of voters who are registered as Orang Kurang Upaya (OKU) or Persons with Disabilities (PWD)
