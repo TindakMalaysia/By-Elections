@@ -1,0 +1,32 @@
+Created on,"5/3/2022, updated on 27/11/2024"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2024), Attorney General Chambers, Utusan Borneo (https://www.utusanborneo.com.my/2020/01/19/ph-ambil-iktibar-keputusan-prk-kimanis)"
+Disclaimers,"This is the official result of the non-gazetted SPR. The original Election Results PDF hosted on EC's website has been removed. While Sabah's new Redelineated boundaries were approved in the Dewan Rakyat on 17th July 2019, the 13th Schedule of the Malaysian Constitution states that new redelineated boundaries come into effect upon the dissolution of Dewan Rakyat or DUN (where 2018 Sabah DUN was dissolved with a gazette on 30th July 2020). Results match with Government Gazette P.U. (B) 44/2020. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives"
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Composite between Parliamentary Code,DUN Code, Polling District Code and Voting Channel Number"
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Ordinary Vote)"
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Constituency Code (2003 - 2019)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Constituency Name (2003 - 2019)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2003 - 2019)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2003 - 2019)
+POLLING DISTRICT CODE,Polling District Code (2016 - 2019)
+POLLING DISTRICT NAME,Polling District Name (2016 - 2019)
+POLLING CENTRE,Polling Centre for Kimanis By-Election 2019
+VOTING CHANNEL NUMBER,Voting Channel Number (Nombor Saluran) for Kimanis By-Election 2019
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+WARISAN,Warisan
+WARISAN CANDIDATE,Warisan Candidate Name as per the Government Gazette (Form 8)
+WARISAN CANDIDATE SEX,Male/Female Classification
+WARISAN CANDIDATE AGE,Age of Warisan Candidate
+WARISAN VOTE,Warisan Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
