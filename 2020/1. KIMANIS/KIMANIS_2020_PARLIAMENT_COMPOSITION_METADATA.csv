@@ -10,8 +10,8 @@ PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Constituency Code (2003 - 2019)
 PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Constituency Name (2003 - 2019)
 STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2003 - 2019)
 STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2003 - 2019)
-POLLING DISTRICT CODE,Unique Identifier for Polling District
-POLLING DISTRICT NAME,Assigned name for Polling District
+POLLING DISTRICT CODE,Polling District Code (2016 - 2019)
+POLLING DISTRICT NAME,Polling District Name (2016 - 2019)
 TOTAL ELECTORS,Total Elector count using the 3rd Quarter Electoral Roll of 2019 that was gazetted on 21/11/2019
 MALAY (%),Proportion of Malay Electors for the Polling District (%). Not applicable for Kimanis as it is grouped together as Muslim Bumiputera (Sabah)
 CHINESE (%),Proportion of Chinese Electors for the Polling District (%)
