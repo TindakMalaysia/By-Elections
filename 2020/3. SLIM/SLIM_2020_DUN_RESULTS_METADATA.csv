@@ -1,0 +1,37 @@
+﻿Created on,"14/4/2022, updated on 25/1/2025"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Attorney General Chambers (2020), Tindak Malaysia (2021), Berita Harian, UMNO Online, Malaysiakini"
+Disclaimers,This result represents the results first appeared on EC's website as soon as the election results were out
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Composite between Parliamentary Code,DUN Code, Polling District Code and Voting Channel Number (Unique Identifier)"
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Ordinary Vote)"
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Nenggiri By-Election 2018
+VOTING CHANNEL NUMBER,Voting Channel Number (Nombor Saluran) for Nenggiri By-Election 2024
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
