@@ -1,0 +1,18 @@
+﻿Created on,28/4/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (SPR), Tindak Malaysia (2025), Dr Asyraf Wajdi Dusuki "
+Disclaimers,"The results are derived from the YB Dr Asyraf Wajdi Dusuki Facebook Post (https://web.facebook.com/drasyrafwajdidusuki/videos/2553822151627796). Limited validation was performed. The focus is only on the ordinary vote, not early vote and postal vote data. Total votes for BN is 11065,  PN is 6059 and PSM is 1106. Unofficial data has undercounted BN by 94 votes, overestimated PN by 100 votes and underestimated PSM by 45 votes. TindakMalaysia Network Services PLT is not responsible for errors and omissions"
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+TOTAL VALID VOTES,Total number of valid votes by electors (sum of votes of the candidates)
+UMNO,Total votes for UMNO Candidate
+PPBM,Total votes for PAS Candidate
+PSM,Total votes for PSM Candidate
