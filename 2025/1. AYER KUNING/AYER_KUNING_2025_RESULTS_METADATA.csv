@@ -1,0 +1,37 @@
+﻿Created on,10/5/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Source,"Election Commission of Malaysia (https://web.facebook.com/sprgovmy/videos/siaran-langsung-pusat-penjumlahan-rasmi-undi-ppru-prk-n48-ayer-kuning-perak/1053945143453656) (SPR), Tindak Malaysia Pemerhati (2025), Engage Pemerhati (2025), PSM, Barisan Nasional, Attorney General Chambers, Bernama (https://garasi.bernama.com/stories/ayer-kuning-by-election-2025)"
+Disclaimers,This is the non-gazetted official results from SPR. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives
+Attrbute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Composite between Parliamentary Code,DUN Code, Polling District Code and Voting Channel Number"
+STATE,State Name
+BALLOT TYPE,"Ballot Type (Postal, Early or Ordinary Vote)"
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+POLLING DISTRICT CODE,Polling District Code (2018 - present at the Created Date)
+POLLING DISTRICT NAME,Polling District Name (2018 - present at the Created Date)
+POLLING CENTRE,Polling Centre for Mahkota By-Election 2018
+VOTING CHANNEL NUMBER,Voting Channel Number (Nombor Saluran) for Ayer Kuning By-Election 2025
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE SEX,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN VOTE,Perikatan Nasional Valid Vote for the Candidate
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Other Party Valid Vote for the Other Party Candidate
+TOTAL VALID VOTES,Total number of votes by electors
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
